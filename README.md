@@ -37,17 +37,10 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 </p>
 
-### 📈 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RahulSamariya&show_icons=true&hide_border=true&theme=transparent" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RahulSamariya&hide_border=true&theme=transparent" alt="GitHub Streak" />
-</div>
-
 ### 🏙️ GitHub City Visualization
 <div align="center">
   <p>An isometric 3D view of my GitHub contributions, transforming my commit history into a digital city.</p>
-  <img src="https://metrics.lecoq.io/RahulSamariya?template=classic&config.timezone=UTC&isocalendar=1&isocalendar.duration=full-year" alt="GitHub City" />
+  <img src="https://metrics.lecoq.io/RahulSamariya?template=classic&config.timezone=UTC&isocalendar=1&isocalendar.duration=full-year" alt="GitHub City" width="100%" />
   <br/>
   <a href="https://skyline.github.com/RahulSamariya/2024">
     <img src="https://img.shields.io/badge/View%20Interactive%203D%20Skyline-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="Skyline" />
